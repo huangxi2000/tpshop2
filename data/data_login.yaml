@@ -1,0 +1,12 @@
+tp_login_001:
+  username: "18612345678"
+  password: "123456"
+  code: "8888"
+tp_login_002:
+  username: "18688888888"
+  password: "888888"
+  code: "8888"
+tp_login_003:
+  username: "18612341234"
+  password: "123456"
+  code: "8888"
