@@ -2,6 +2,7 @@ import os
 import sys
 sys.path.append(os.getcwd())
 import pytest
+import time
 
 from base.read_yaml import ReadYaml
 
@@ -37,5 +38,6 @@ class TestLogin():
         login.page_login_password(password)
         login.page_login_code(code)
         login.page_login_btn()
+        time sleep(5)
         
 
